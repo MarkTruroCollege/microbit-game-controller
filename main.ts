@@ -55,8 +55,8 @@ radio.onReceivedString(function (receivedString) {
         basic.showLeds(`
             # # # # #
             . . . . #
-            . . . # .
-            . . # . .
+            . # # # .
+            # . . . .
             # # # # #
             `)
     } else {

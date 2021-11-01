@@ -31,8 +31,8 @@
         `</field></block></statement><value name="IF5"><block type="logic_compare" id="K$8MF5QjI/KqbP_F_-Z{"><field name="OP">EQ</field><value name="A"><shadow type="text" disabled="true"><field name="TEXT"/></shadow><block type="argument_reporter_string" id="Vh;n@UV]j(6xCRb@o/Zk"><field name="VALUE">receivedString</field></block></value><value name="B"><shadow type="text" id="e1xa(}u9%/`)l[zWD,O["><field name="TEXT">f2</field></shadow></value></block></value><statement name="DO5"><block type="device_show_leds" id="wON:kfLeQa*RFIT/=X1r"><field name="LEDS">`
         # # # # # 
         . . . . # 
-        . . . # . 
-        . . # . . 
+        . # # # . 
+        # . . . . 
         # # # # #
         `</field></block></statement><statement name="ELSE"><block type="device_show_leds" id="9PJ5UArw*[qzu?F6?58u"><field name="LEDS">`
         . . . . . 
